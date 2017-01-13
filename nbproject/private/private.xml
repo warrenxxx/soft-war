@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/routes/web.php</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/app/Http/Controllers/MedicosController.php</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/resources/views/Personas/edit.blade.php</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/resources/views/home.blade.php</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/app/Http/Controllers/PrincipalController.php</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/.env</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/config/database.php</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/resources/views/principal.blade.php</file>
+            <file>file:/F:/xampp/htdocs/LaravelProyecto/resources/views/consultorios/edit.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
