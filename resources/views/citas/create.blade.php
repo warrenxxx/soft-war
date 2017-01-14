@@ -40,7 +40,7 @@
 
                   <div class="col-md-6 col-xs-10">
                       <select id="Estado" name="estado" placeholder="estado" class="form-control">
-                          <option value="1">Hailitado</option>
+                          <option value="1">Habilitado</option>
                           <option value ="0">Deshabilitado</option>
                       </select>
 
